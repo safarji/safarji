@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=safarji.safarji)
 # Check my another account in github for more projects!!!
 
-# All my project will be moved to my accout in here below:
+# All my projects will be moved to my new accout in here below:
 
 * https://github.com/A-safarji
 
