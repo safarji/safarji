@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @safarji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#  👋 Hi, I’m A-safarji
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=safarji.safarji)
+# Check my another account in github for more projects!!!
+
+# All my project will be moved to my accout in here 
+
+https://github.com/A-safarji
+
 
 
 <!---
